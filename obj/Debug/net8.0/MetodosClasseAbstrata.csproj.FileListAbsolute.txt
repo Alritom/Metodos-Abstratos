@@ -1,0 +1,14 @@
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\bin\Debug\net8.0\MetodosClasseAbstrata.exe
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\bin\Debug\net8.0\MetodosClasseAbstrata.deps.json
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\bin\Debug\net8.0\MetodosClasseAbstrata.runtimeconfig.json
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\bin\Debug\net8.0\MetodosClasseAbstrata.dll
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\bin\Debug\net8.0\MetodosClasseAbstrata.pdb
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\obj\Debug\net8.0\MetodosClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\obj\Debug\net8.0\MetodosClasseAbstrata.AssemblyInfoInputs.cache
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\obj\Debug\net8.0\MetodosClasseAbstrata.AssemblyInfo.cs
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\obj\Debug\net8.0\MetodosClasseAbstrata.csproj.CoreCompileInputs.cache
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\obj\Debug\net8.0\MetodosClasseAbstrata.dll
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\obj\Debug\net8.0\refint\MetodosClasseAbstrata.dll
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\obj\Debug\net8.0\MetodosClasseAbstrata.pdb
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\obj\Debug\net8.0\MetodosClasseAbstrata.genruntimeconfig.cache
+D:\Alritom\Course POO\Exercícios\MetodosClasseAbstrata\MetodosClasseAbstrata\obj\Debug\net8.0\ref\MetodosClasseAbstrata.dll
